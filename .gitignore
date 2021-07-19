@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/QNAP
+data/*.csv
+data/*.zip
